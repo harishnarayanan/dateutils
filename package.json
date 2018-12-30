@@ -1,0 +1,19 @@
+{
+  "name": "utilsfordate",
+  "version": "1.0.0",
+  "description": "Helper to manipulate date functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harishnarayanan/dateutils.git"
+  },
+  "author": "Harish Narayanan",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.2.2"
+  }
+}
